@@ -1,0 +1,1 @@
+print("day 1: coding start")
